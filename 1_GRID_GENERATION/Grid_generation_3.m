@@ -1,5 +1,5 @@
 %% Generating the grids and main input files for the SFINCS models (Script 3 of 5)
-% Craeting the grid information and the overall input file "sfincs.inp" based on the grid points  
+% Creating the grid information and the overall input file "sfincs.inp" based on the grid points  
 % Name: Hassaan Mohamed 
 % Student Number: 1070154
 
